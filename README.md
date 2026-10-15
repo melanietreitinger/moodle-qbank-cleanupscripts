@@ -7,6 +7,9 @@ The scripts address the bug described and fixed in https://moodle.atlassian.net/
 
 ## Files
 
+> [!NOTE]
+> Put the scripts in the `question` folder of your Moodle installation.
+
 | File                                          | Description                                                                                                                                                                                                                                                                                                                     |
 |-----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `question/cleanup_duplicate_subquestions.php`   | Adhoc Task from Moodle 5, triggered in `cleanup_delete_duplicates.php`                                                                                                                                                                                                                                                          |
